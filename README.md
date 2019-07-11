@@ -10,6 +10,22 @@ This dataset consists of various audio files with different emotions. Your goal 
  -> keras<br>
  -> sklearn<br>
  -> tqdm<br>
+ 
+# Dataset
+  we have different types actor audio.
+ 
+ Speakers
+    --------------------------------------
+    'Actor 1', 'Actor 2', 'Actor 3' and 'Actor 4' are four male speakers
+     --------------------------------------
+Audio data 
+      --------------------------------------
+       Audio files consist of audio WAV files sampled at 44.1 kHz
+
+       There are 15 sentences for each of the 3 emotion categories.
+       The initial letter(s) of the file name represents the emotion class, and the following digits represent the sentence number.
+       The letters 'a', 'h' and 'sa' represent 'anger', 'happiness' and 'sadness' emotion classes respectively. 
+       E.g., 'a03.wav' is the 3rd anger sentence.
 
 # Audio Data 
 
