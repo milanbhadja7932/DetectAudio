@@ -13,7 +13,7 @@ This dataset consists of various audio files with different emotions. Your goal 
 
 # Audio Data 
 
-<img src="https://github.com/milanbhadja7932/DetectAudio/blob/master/videoblocks-blue-digital-sine-audio-wave-form-seamless-loop-animation-4k-4096x2304_srr02nc-b_thumbnail-full01.png",height=100 width=100/>
+<img src="https://github.com/milanbhadja7932/DetectAudio/blob/master/videoblocks-blue-digital-sine-audio-wave-form-seamless-loop-animation-4k-4096x2304_srr02nc-b_thumbnail-full01.png"/>
 
  
 # OUTPUT
