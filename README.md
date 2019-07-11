@@ -12,14 +12,14 @@ This dataset consists of various audio files with different emotions. Your goal 
  -> tqdm<br>
  
 # Dataset
-  we have different types actor audio.
+  we have different types actor audio.<br>
  
- Speakers
-    --------------------------------------
+ Speakers<br>
+    --------------------------------------<br>
     'Actor 1', 'Actor 2', 'Actor 3' and 'Actor 4' are four male speakers<br>
-     --------------------------------------
+     --------------------------------------<br>
 Audio data <br>
-      --------------------------------------
+      --------------------------------------<br>
      
 
        There are 15 sentences for each of the 3 emotion categories.
