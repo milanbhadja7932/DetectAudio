@@ -4,12 +4,12 @@
 This dataset consists of various audio files with different emotions. Your goal is to create a classifier that can predict the emotion of any given speech with an input of an audio file.
 
 # Requirements
- -> numpy
- -> matplotlib
- -> tensorflow
- -> keras
- -> sklearn
- -> tqdm
+ -> numpy<br>
+ -> matplotlib<br>
+ -> tensorflow<br>
+ -> keras<br>
+ -> sklearn<br>
+ -> tqdm<br>
 
 # Audio Data 
 
